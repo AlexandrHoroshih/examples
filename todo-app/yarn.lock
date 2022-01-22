@@ -4549,21 +4549,21 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-effector-inspector@^0.7.4:
-  version "0.7.5"
-  resolved "https://registry.yarnpkg.com/effector-inspector/-/effector-inspector-0.7.5.tgz#c3d5e73e20013b3707badc436617b75d3e30ab58"
-  integrity sha512-n110gPIHWr+hEyTCV0AFOTNkYuN7E3SGbADsU7geUkNXzRM5DBCf365ugXF0c0A5EOnfyJXQQlcyY7Z4yLjcmg==
+effector-inspector@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/effector-inspector/-/effector-inspector-0.8.0.tgz#a26b2e0db6e47c22d95f2a1844c5b564d0a23678"
+  integrity sha512-ncAk+xYVbKxvK4jzaJ+mCnCvZIFxJJBBxhSWz7IAxUIjVdmXesEGQ7zeYbvHEhbJ/KOKsGPwy9c6mD8pY/ox6Q==
   dependencies:
     foliage "^0.201.0"
     forest "^0.20.2"
 
-effector-logger@^0.13.1:
-  version "0.13.1"
-  resolved "https://registry.yarnpkg.com/effector-logger/-/effector-logger-0.13.1.tgz#e1ee14cb10261a41cb22dee0c66a72f5df106501"
-  integrity sha512-b7UweHdBEfpUDBJ+btMKIH8EWlaMNI5M/+B4TQLFdFHKNjLZYHEE53QKOhRuy+wsofqP5/xfT9V/iOUzm+1AAQ==
+effector-logger@^0.13.2:
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/effector-logger/-/effector-logger-0.13.2.tgz#e0595ddfd794a7d8dabdd950e18d4a599ad1383d"
+  integrity sha512-Gwk56MpqROntOCYUfWk73XakEYOXQVIc0gQyYMFn+uPvDJUNNZApH+6C77s6hwG0m3CE9NpcUwiWDO8+XtAmkg==
   dependencies:
     detect-node "2.0.4"
-    effector-inspector "^0.7.4"
+    effector-inspector "^0.8.0"
     just-debounce-it "^1.1.0"
     set-value "4.0.1"
 

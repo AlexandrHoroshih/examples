@@ -18,7 +18,7 @@
     "compose-function": "^3.0.3",
     "customize-cra": "^1.0.0",
     "effector": "^22.1.2",
-    "effector-logger": "^0.13.1",
+    "effector-logger": "^0.13.2",
     "effector-react": "^22.0.6",
     "immer": "^8.0.1",
     "normalizr": "^3.6.1",
