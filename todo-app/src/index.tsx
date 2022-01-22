@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from 'app';
+import {createInspector} from "effector-inspector";
 import reportWebVitals from './reportWebVitals';
-
+createInspector()
 ReactDOM.render(
   <React.StrictMode>
     <App />
